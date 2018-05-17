@@ -3,7 +3,6 @@ node_js: node
 deploy:
   provider: heroku
   api_key: 57b76cb1-8d3a-4f55-994d-2f7766cf46cd
-    secure: uc5pjJqRbJoTWpNuTDhY9vKtnhtmIEoj3bboOQwwMXv5QeXI5oEjhx+TB/UdUIzGhV4owYD1f9hkLNL+DV4NbFdfPCjuZPJyPglthsN/cX0B2FFMzNM4A2MfcIIyg2uu/rfuyzHF2EQhQQKI0Lsa67b+ImZqNbBusyCylT4qfw/O9t0cguXHfXoZfBGDrXUMOxp7R0vIWgmomTVPolyeYFoZXZnJgg6QAS/NSSiyRgtZH0LaYzaiFf6tfMJsobp52zRGh6M9sceOpMJhUPI+4Sumwhn1UiJ1yttYfg4BfMTSIfzYVQCCZUQnGqD7zJuXUPmLnfrwMXUcr+fm+u9pwe/qc7vWZxbbI6kLc36XRPFDEoKxodME7jb7L/3bTz2eiBpPvMIcR379h3r3v8humx1NRbtmQbpnvsr9uBY38dUey2RIWl52r10UNquA/NJOgYbGUo07+651ujq09cqfvs0SzWgaoZrylmUqAGW0YIZaghQx2ngIFp6sYwpNzQVmGPFPDAOVW7s5Xzf+/uxoBwUQhv3jgKHYxD5Y7XPMoB0f2T6CztIL+z+DXu82gETeonS7/telwdaqhwtY+d7CiumM8DzdrrsAVYcATHSs2UV1BhzEPa/HV6bj4UxfzdU7DX3m0D023jdowRsjzs+T1+1J9IBAKIk2Jn9fpkgIYwE=
   app: node-shopping-list-integration-tests
   on: https://protected-sea-80288.herokuapp.com/
     repo: vmsimone/node-shopping-list-integration-tests
